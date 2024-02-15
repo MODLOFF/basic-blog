@@ -1,5 +1,5 @@
 # Basic Blog
-Bu blog sitesi, kullanıcıların kolayca blog yazıları oluşturabildiği, paylaşabildiği ve diğer kullanıcıların yazılarını keşfederken etkileşime geçebildiği modern bir platform sunar. Hem kullanıcı dostu arayüzü hem de güçlü özellikleri ile blog yazarlarına ve okuyucularına özel bir deneyim sunmayı hedefler.
+This blogging site offers a modern platform where users can easily create and share blog posts and interact with other users as they explore their posts. With both a user-friendly interface and powerful features, it aims to provide an exclusive experience for bloggers and readers.
 
 ## Features
 
