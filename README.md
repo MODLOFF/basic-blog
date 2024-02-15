@@ -20,6 +20,6 @@ This blogging site offers a modern platform where users can easily create and sh
 Go to  www.yoursite.com/install.php
 Enter the necessary information and the site is ready.
 
-#Demo
+## Demo
 https://syncro.com.tr/blog
 
