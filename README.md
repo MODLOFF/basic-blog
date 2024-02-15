@@ -1,7 +1,7 @@
 # Basic Blog
 Bu blog sitesi, kullanıcıların kolayca blog yazıları oluşturabildiği, paylaşabildiği ve diğer kullanıcıların yazılarını keşfederken etkileşime geçebildiği modern bir platform sunar. Hem kullanıcı dostu arayüzü hem de güçlü özellikleri ile blog yazarlarına ve okuyucularına özel bir deneyim sunmayı hedefler.
 
-#Features
+## Features
 
 - Blog System
 - Login System
@@ -9,13 +9,13 @@ Bu blog sitesi, kullanıcıların kolayca blog yazıları oluşturabildiği, pay
 - Profile System
 - Admin Panel
 
-#Todo
+## Todo
 
 - Market System
 - Coin System
 - Forum System
 
-#Install
+## Install
 
 Go to  www.yoursite.com/install.php
 Enter the necessary information and the site is ready.
